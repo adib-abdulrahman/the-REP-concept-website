@@ -1,0 +1,23 @@
+You should produce a web page (or a set of pages) that use the following tags:
+
+<html>
+<head>
+<title>
+<body>
+
+<p>
+<h1> <h2> <h3>
+
+<img> including the src, alt, height and width attributes.
+
+<a> including the href attribute. The target attribute is also useful for links to other websites.
+
+<div> to divide your page into named sections (This will be used in a future exercise)
+
+<li>
+<ol>
+<ul>
+
+<form>
+<input> where the input is a textbox  or a submit button
+
